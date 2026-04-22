@@ -11,8 +11,8 @@ Control your Mac by physically tapping or slapping its chassis. This project use
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/macos-chassis-gestures.git
-   cd macos-chassis-gestures
+   git clone https://github.com/0xYuvi/mac-gestures.git
+   cd mac-gestures
    ```
 
 2. **Install dependencies:**
